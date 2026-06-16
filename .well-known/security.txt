@@ -1,0 +1,4 @@
+Contact: mailto:security@peakdiamondlounge.example
+Expires: 2027-06-16T12:17:27.997Z
+Preferred-Languages: en, de, fr
+Canonical: https://YOUR-USERNAME.github.io/.well-known/security.txt
